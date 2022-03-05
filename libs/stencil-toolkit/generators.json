@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "name": "stencil-toolkit",
+  "version": "0.0.1",
+  "generators": {
+    "stencil-toolkit": {
+      "factory": "./src/generators/stencil-toolkit/generator",
+      "schema": "./src/generators/stencil-toolkit/schema.json",
+      "description": "stencil-toolkit generator"
+    }
+  }
+}

@@ -34,6 +34,7 @@
     "nx-tsup": "libs/nx-tsup",
     "random": "libs/random",
     "stencil-toolkit": "libs/stencil-toolkit",
+    "stencil-toolkit-e2e": "apps/stencil-toolkit-e2e",
     "typeorm-plus": "libs/typeorm-plus",
     "universal-fastify-engine": "libs/universal-fastify-engine",
     "url": "libs/url",

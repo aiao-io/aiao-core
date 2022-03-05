@@ -1,24 +1,11 @@
-# @aiao/stencil-toolkit
+# stencil-toolkit
 
-[![npm][shields-stencil-toolkit]][npm-stencil-toolkit]
+This library was generated with [Nx](https://nx.dev).
 
-`stencil` 的工具集 , 支持 `nx`
+## Building
 
-## 场景
+Run `nx build stencil-toolkit` to build the library.
 
-动态显示内容
+## Running unit tests
 
-## 安装
-
-```console
-yarn add @aiao/stencil-toolkit --dev
-```
-
-## 使用
-
-```
-ng generate @aiao/stencil-toolkit:library you-library-name
-```
-
-[shields-stencil-toolkit]: https://img.shields.io/npm/v/@aiao/stencil-toolkit?style=flat-square
-[npm-stencil-toolkit]: https://www.npmjs.com/@aiao/stencil-toolkit
+Run `nx test stencil-toolkit` to execute the unit tests via [Jest](https://jestjs.io).

@@ -1,5 +1,5 @@
 module.exports = {
-  displayName: 'stencil-toolkit',
+  displayName: 'stencil-toolkit-e2e',
   preset: '../../jest.preset.js',
   globals: {
     'ts-jest': {
@@ -10,5 +10,5 @@ module.exports = {
     '^.+\\.[tj]s$': 'ts-jest'
   },
   moduleFileExtensions: ['ts', 'js', 'html'],
-  coverageDirectory: '../../coverage/libs/stencil-toolkit'
+  coverageDirectory: '../../coverage/apps/stencil-toolkit-e2e'
 };
